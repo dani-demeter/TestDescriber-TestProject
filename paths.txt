@@ -1,0 +1,4 @@
+/Users/Dani/eclipse-workspace/SME19_TestDescriberProject/workspace_implementation/Task1/src/
+/Users/Dani/eclipse-workspace/SME19_TestDescriberProject/workspace_implementation/Task1/bin/
+org/magee/math/Rational.java
+org/magee/math/TestRationalExtended.java
