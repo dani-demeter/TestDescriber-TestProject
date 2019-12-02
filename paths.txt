@@ -2,3 +2,5 @@
 /Users/Dani/Downloads/workspace2-modified-implementation/Task1/bin/
 org/magee/math/Rational.java
 org/magee/math/TestRational.java
+org/magee/math/LogFunction.java
+org/magee/math/TestLogFunction.java
