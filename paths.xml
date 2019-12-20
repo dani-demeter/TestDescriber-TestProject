@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input>
+	<path>
+		<src>bla</src>
+		<bin>bla</bin>
+		<class>bla</class>
+		<testClass>bla</testClass>
+	</path>
+	<verbose>false</verbose>
+</input>
